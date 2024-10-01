@@ -1,0 +1,57 @@
+{
+    "zornPalette": {
+        "name": "Zorn Palette",
+        "colors": [
+            { "name": "Cadmium Red", "hex": "#C72A2A" },
+            { "name": "Yellow Ochre", "hex": "#D8B74D" },
+            { "name": "Ivory Black", "hex": "#2A2A2A" },
+            { "name": "Titanium White", "hex": "#FFFFFF" }
+        ]
+    },
+    "limitedPalette": {
+        "name": "Limited Palette",
+        "colors": [
+            { "name": "Cadmium Red", "hex": "#C72A2A" },
+            { "name": "Cadmium Yellow", "hex": "#E9D14D" },
+            { "name": "Ultramarine Blue", "hex": "#2A7CC7" },
+            { "name": "Titanium White", "hex": "#FFFFFF" }
+        ]
+    },
+    "splitPrimaryPalette": {
+        "name": "Split-Primary Palette",
+        "colors": [
+            { "name": "Warm Red (Cadmium Red)", "hex": "#C72A2A" },
+            { "name": "Cool Red (Alizarin Crimson)", "hex": "#9B2D35" },
+            { "name": "Warm Yellow (Cadmium Yellow)", "hex": "#E9D14D" },
+            { "name": "Cool Yellow (Hansa Yellow)", "hex": "#F6EB61" },
+            { "name": "Warm Blue (Cobalt Blue)", "hex": "#1E3F92" },
+            { "name": "Cool Blue (Phthalo Blue)", "hex": "#005A8D" }
+        ]
+    },
+    "earthPalette": {
+        "name": "Earth Palette",
+        "colors": [
+            { "name": "Burnt Sienna", "hex": "#A65E2E" },
+            { "name": "Raw Umber", "hex": "#7B4B3A" },
+            { "name": "Yellow Ochre", "hex": "#D8B74D" },
+            { "name": "Titanium White", "hex": "#FFFFFF" }
+        ]
+    },
+    "grayscalePalette": {
+        "name": "Grayscale Palette",
+        "colors": [
+            { "name": "Light Gray", "hex": "#D3D3D3" },
+            { "name": "Gray", "hex": "#808080" },
+            { "name": "Dark Gray", "hex": "#404040" },
+            { "name": "Black", "hex": "#000000" }
+        ]
+    },
+    "monochromaticPalette": {
+        "name": "Monochromatic Palette",
+        "colors": [
+            { "name": "Light Blue", "hex": "#ADD8E6" },
+            { "name": "Blue", "hex": "#0000FF" },
+            { "name": "Dark Blue", "hex": "#00008B" }
+        ]
+    }
+}
