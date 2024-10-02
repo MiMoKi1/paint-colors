@@ -2,56 +2,56 @@
     "zornPalette": {
         "name": "Zorn Palette",
         "colors": [
-            { "name": "Cadmium Red", "hex": "#C72A2A" },
-            { "name": "Yellow Ochre", "hex": "#D8B74D" },
-            { "name": "Ivory Black", "hex": "#2A2A2A" },
-            { "name": "Titanium White", "hex": "#FFFFFF" }
+            { "name": "Cadmium Red", "hex": "#C72A2A", "pigment_code": "PR255" },
+            { "name": "Yellow Ochre", "hex": "#D8B74D", "pigment_code": "PY43" },
+            { "name": "Ivory Black", "hex": "#2A2A2A", "pigment_code": "PB29" },
+            { "name": "Titanium White", "hex": "#FFFFFF", "pigment_code": "PW6" }
         ]
     },
     "limitedPalette": {
         "name": "Limited Palette",
         "colors": [
-            { "name": "Cadmium Red", "hex": "#C72A2A" },
-            { "name": "Cadmium Yellow", "hex": "#E9D14D" },
-            { "name": "Ultramarine Blue", "hex": "#2A7CC7" },
-            { "name": "Titanium White", "hex": "#FFFFFF" }
+            { "name": "Cadmium Red", "hex": "#C72A2A", "pigment_code": "PR255" },
+            { "name": "Cadmium Yellow", "hex": "#E9D14D", "pigment_code": "PY35" },
+            { "name": "Ultramarine Blue", "hex": "#2A7CC7", "pigment_code": "PB29" },
+            { "name": "Titanium White", "hex": "#FFFFFF", "pigment_code": "PW6" }
         ]
     },
     "splitPrimaryPalette": {
         "name": "Split-Primary Palette",
         "colors": [
-            { "name": "Warm Red (Cadmium Red)", "hex": "#C72A2A" },
-            { "name": "Cool Red (Alizarin Crimson)", "hex": "#9B2D35" },
-            { "name": "Warm Yellow (Cadmium Yellow)", "hex": "#E9D14D" },
-            { "name": "Cool Yellow (Hansa Yellow)", "hex": "#F6EB61" },
-            { "name": "Warm Blue (Cobalt Blue)", "hex": "#1E3F92" },
-            { "name": "Cool Blue (Phthalo Blue)", "hex": "#005A8D" }
+            { "name": "Warm Red (Cadmium Red)", "hex": "#C72A2A", "pigment_code": "PR255" },
+            { "name": "Cool Red (Alizarin Crimson)", "hex": "#9B2D35", "pigment_code": "PR83" },
+            { "name": "Warm Yellow (Cadmium Yellow)", "hex": "#E9D14D", "pigment_code": "PY35" },
+            { "name": "Cool Yellow (Hansa Yellow)", "hex": "#F6EB61", "pigment_code": "PY151" },
+            { "name": "Warm Blue (Cobalt Blue)", "hex": "#1E3F92", "pigment_code": "PB35" },
+            { "name": "Cool Blue (Phthalo Blue)", "hex": "#005A8D", "pigment_code": "PB15" }
         ]
     },
     "earthPalette": {
         "name": "Earth Palette",
         "colors": [
-            { "name": "Burnt Sienna", "hex": "#A65E2E" },
-            { "name": "Raw Umber", "hex": "#7B4B3A" },
-            { "name": "Yellow Ochre", "hex": "#D8B74D" },
-            { "name": "Titanium White", "hex": "#FFFFFF" }
+            { "name": "Burnt Sienna", "hex": "#A65E2E", "pigment_code": "PY43" },
+            { "name": "Raw Umber", "hex": "#7B4B3A", "pigment_code": "PB29" },
+            { "name": "Yellow Ochre", "hex": "#D8B74D", "pigment_code": "PY43" },
+            { "name": "Titanium White", "hex": "#FFFFFF", "pigment_code": "PW6" }
         ]
     },
     "grayscalePalette": {
         "name": "Grayscale Palette",
         "colors": [
-            { "name": "Light Gray", "hex": "#D3D3D3" },
-            { "name": "Gray", "hex": "#808080" },
-            { "name": "Dark Gray", "hex": "#404040" },
-            { "name": "Black", "hex": "#000000" }
+            { "name": "Light Gray", "hex": "#D3D3D3", "pigment_code": "N/A" },
+            { "name": "Gray", "hex": "#808080", "pigment_code": "N/A" },
+            { "name": "Dark Gray", "hex": "#404040", "pigment_code": "N/A" },
+            { "name": "Black", "hex": "#000000", "pigment_code": "PB29" }
         ]
     },
     "monochromaticPalette": {
         "name": "Monochromatic Palette",
         "colors": [
-            { "name": "Light Blue", "hex": "#ADD8E6" },
-            { "name": "Blue", "hex": "#0000FF" },
-            { "name": "Dark Blue", "hex": "#00008B" }
+            { "name": "Light Blue", "hex": "#ADD8E6", "pigment_code": "PB15" },
+            { "name": "Blue", "hex": "#0000FF", "pigment_code": "PB15" },
+            { "name": "Dark Blue", "hex": "#00008B", "pigment_code": "PB15" }
         ]
     }
 }
